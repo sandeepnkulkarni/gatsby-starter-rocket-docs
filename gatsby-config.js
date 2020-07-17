@@ -1,16 +1,16 @@
 module.exports = {
   siteMetadata: {
-    siteTitle: `@rocketseat/gatsby-theme-docs`,
-    defaultTitle: `@rocketseat/gatsby-theme-docs`,
-    siteTitleShort: `gatsby-theme-docs`,
-    siteDescription: `Out of the box Gatsby Theme for creating documentation websites easily and quickly`,
-    siteUrl: `https://rocketdocs.netlify.com`,
-    siteAuthor: `@rocketseat`,
+    siteTitle: `Sandeep Kulkarni Home`,
+    defaultTitle: `Sandeep Kulkarni Home`,
+    siteTitleShort: `Sandeep Kulkarni Home`,
+    siteDescription: `Sandeep Kulkarni Homepage`,
+    siteUrl: `https://sandeepnk.in`,
+    siteAuthor: `Sandeep Kulkarni`,
     siteImage: `/banner.png`,
     siteLanguage: `en`,
-    themeColor: `#7159c1`,
+    themeColor: `#1a1a1d`,
     basePath: `/`,
-    footer: `Theme by Rocketseat`,
+    footer: ``,
   },
   plugins: [
     {

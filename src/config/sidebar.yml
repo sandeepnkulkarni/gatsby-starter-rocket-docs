@@ -1,14 +1,28 @@
 # Sidebar navigation
 
-- label: 'Introduction'
+- label: 'Home'
   link: '/'
-- label: 'Getting started'
-  link: '/getting-started'
-- label: Usage
+- label: Kubernetes Tutorials
   items:
-    - label: 'Creating docs'
-      link: '/usage/creating-docs'
-    - label: 'Navigation'
-      link: '/usage/navigation'
-    - label: 'Shadowing'
-      link: '/usage/shadowing'
+    - label: 'Introduction to Kubernetes'
+      link: '/kubernetes/introduction'
+    - label: 'Create single node Kubernetes cluster on Ubuntu'
+      link: '/kubernetes/single-node-k8s-ubuntu-gcp-kubeadm'
+    - label: 'Add worker node to Kubernetes Cluster'
+      link: '/kubernetes/add-worker-node'
+    - label: 'Reset Kubernetes Cluster using kubeadm'
+      link: '/kubernetes/reset-kubernetes-cluster'
+- label: .Net Core Tutorials
+  items:
+    - label: 'Introduction to .Net Core'
+      link: '/netcore/introduction'
+    - label: 'Create your first .Net Core console application on Ubuntu'
+      link: '/netcore/create-first-dotnetcore-console-app-on-ubuntu'
+    - label: 'Run .Net Core console application inside Docker container'
+      link: '/netcore/run-dotnetcore-console-app-in-docker'
+    - label: 'Create self-contained .Net Core console application docker image'
+      link: '/netcore/create-self-contained-dotnetcore-docker-image'
+    - label: 'Use multi-stage docker build for creating docker image of self-contained .Net Core console application'
+      link: '/netcore/multi-stage-docker-build-dotnet-core-console-appliction'
+    - label: 'Use multi-stage docker build for creating docker image of trimmed self-contained .Net Core 3.1 console application'
+      link: '/netcore/multi-stage-docker-build-dotnet-core-3.1-console-appliction'
