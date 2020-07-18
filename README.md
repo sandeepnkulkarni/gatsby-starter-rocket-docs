@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6879b5c7-9f55-40d0-b18c-b5d1bb8344e1/deploy-status)](https://app.netlify.com/sites/sandeepnk-home-page/deploys)
+
 <p align="center">
   <img src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/theme-docs.svg" alt="A illustration of file that is the @rocketseat/gatsby-theme-docs logo" width="100">
 </p>
